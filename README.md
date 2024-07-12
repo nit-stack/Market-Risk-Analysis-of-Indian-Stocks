@@ -24,7 +24,7 @@ The dataset includes weekly stock prices for the following Indian stocks:
 
 #### 1.1 Stock Price Graph for SAIL
 
-![image](https://github.com/user-attachments/assets/fd45869d-1dbb-4754-866f-09f4e73ce2d0)
+![image](https://github.com/user-attachments/assets/870ea02c-bd25-4ace-9300-6c9fb8ec0452)
 
 **Inference:**  
 Share prices of SAIL started high in 2014, fell gradually during 2015, and hit rock bottom in 2016. Prices rose slowly in 2017, peaked in mid-2018, and fell again in late 2019, hitting rock bottom in 2020.  
@@ -32,6 +32,9 @@ Share prices of SAIL started high in 2014, fell gradually during 2015, and hit r
 Prices are expected to stay low until mid-2021 and gradually rise afterward.
 
 #### 1.2 Stock Price Graph for Shree Cement
+
+![image](https://github.com/user-attachments/assets/284ebab0-b047-4791-808e-2f3d727e4c6d)
+
 **Inference:**  
 Prices of Shree Cement show an upward trend from 2014 to 2020, with minor downfalls in mid-2018 to 2020, which are not very significant. Prices picked up and continue to increase post-2020.  
 **Trend Prediction:**  
@@ -55,7 +58,11 @@ The means and standard deviations have been calculated for all stocks.
 **Table of Results:**  
 A table showcasing the average return and corresponding volatility for each stock has been provided in the analysis.
 
+![image](https://github.com/user-attachments/assets/c2462f4f-97ee-4d71-982a-f41ddb459237)
+
 ### 4. Stock Price vs. Standard Deviation Plot
+
+![image](https://github.com/user-attachments/assets/20ca12a8-aa83-4cc1-861c-936972fd117a)
 
 **Inference from the Plot:**
 - Stocks with the lowest volatility yield the highest return.
